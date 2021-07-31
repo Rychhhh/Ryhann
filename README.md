@@ -1,6 +1,6 @@
 # Hello👋
 
-😄 My name is Rayhan Rizki Putra
+😄 My name is Rayhan 
 
 ⚡ Interest in Data Scientist and Web Developer
 
