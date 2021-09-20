@@ -11,4 +11,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryhann&layout=compact&theme=react)](https://github.com/Ryhann))
 
 
-![DARK SOULS III ending](https://media1.tenor.com/images/1f606c89e11905066426acbee623a078/tenor.gif)
+![DARK SOULS III ending](https://media1.tenor.com/images/7b2edd20a311b5094185ce4a265793ec/tenor.gif?itemid=23146524)
