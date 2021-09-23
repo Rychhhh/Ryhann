@@ -10,6 +10,8 @@
 
 ![Zzz](https://media1.tenor.com/images/7b2edd20a311b5094185ce4a265793ec/tenor.gif?itemid=23146524)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryhann&layout=compact&theme=react)](https://github.com/Ryhann))
+
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Ryhan
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
