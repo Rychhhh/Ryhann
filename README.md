@@ -1,6 +1,5 @@
-<img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 # Hello👋
-
+<img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
 😄 My name is Rayhan 
 
