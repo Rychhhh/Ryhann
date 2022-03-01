@@ -2,13 +2,17 @@
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
 
-😄 My name is Union
+😄 Hi there
+ 
+😎 My real name is Rayhan
+
+🐱‍🚀 My Nickname is Union
 
 ⚡ Interest in Data Scientist and Web Developer
 
 🌱 I’m Software Engineer And Web Developer
 
-📫 You can reach me on : [LinkedIn](https://www.linkedin.com/in/rayhan-putra-69a038213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bps9HWVa4Td%2BrKfSInMyS6g%3D%3D) / [Instagram](https://www.instagram.com/spcyl_/) /[Twitter](https://twitter.com/Rayhan26901596)/ [My Portfolio Website](https://porthan-react.vercel.app/)
+📫 You can reach me on : [LinkedIn](https://www.linkedin.com/in/rayhan-putra-69a038213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bps9HWVa4Td%2BrKfSInMyS6g%3D%3D) / [Instagram](https://www.instagram.com/spcyl_/) /[Twitter](https://twitter.com/Rayhan26901596)/ [My Portfolio Website](https://rayhan-union.netlify.app/)
 
 <img width="300" src="https://media1.tenor.com/images/7b2edd20a311b5094185ce4a265793ec/tenor.gif?itemid=23146524" />
 
