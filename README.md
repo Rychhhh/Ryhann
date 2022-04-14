@@ -16,6 +16,13 @@
 
 <img width="300" src="https://media1.tenor.com/images/7b2edd20a311b5094185ce4a265793ec/tenor.gif?itemid=23146524" />
 
+<h4>Visitor Count :eyes:</h4>
+<p>
+    <a href="https://github.com/Rizsyad">
+        <img src="https://profile-counter.glitch.me/{Ryhann}/count.svg" alt="Rizsyad :: Visitor's Count" />
+    </a>
+</p>
+
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Ryhan
 
 
