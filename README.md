@@ -22,6 +22,54 @@
 
 📫 You can reach me on : [LinkedIn](https://www.linkedin.com/in/rayhan-putra-69a038213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bps9HWVa4Td%2BrKfSInMyS6g%3D%3D) / [Instagram](https://www.instagram.com/spcyl_/) /[Twitter](https://twitter.com/Rayhan26901596)/ [My Portfolio Website](https://rayhan-union.netlify.app/)
 
+<p align="center">
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="java" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="javascript" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="react" width="40" height="40"/>
+   </a>
+  <a href="">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/laravel.svg" alt="laravel" width="40" height="40"/>
+   </a>
+  <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/flutter.svg" alt="flutter" width="40" height="40"/>
+   </a>
+ <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="html5" width="40" height="40"/>
+   </a>
+ <a href="">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+   </a>
+ <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" alt="bs" width="40" height="40"/>
+   </a>
+ <a href="">
+      <img src="https://tailwindcss.com/favicons/favicon-32x32.png?v=3" alt="tailwind" width="40" height="40"/>
+   </a>
+  <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="css-3" width="40" height="40"/>
+   </a>
+ <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+   </a>
+ <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
+   </a>
+ <a href="">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="nextjs" width="40" height="40"/>
+   </a>
+</p>
+
 <img width="300" src="https://c.tenor.com/pLhhw8tQib0AAAAC/killua-hunter-x-hunter.gif" />
 
 <h4>Visitor Count :eyes:</h4>
