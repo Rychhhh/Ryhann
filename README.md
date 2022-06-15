@@ -74,7 +74,7 @@
 
 <h4>Visitor Count :eyes:</h4>
 <p>
-    <a href="https://github.com/Rizsyad">
+    <a href="https://github.com/Ryhann">
         <img src="https://profile-counter.glitch.me/{Ryhann}/count.svg" alt="Rizsyad :: Visitor's Count" />
     </a>
 </p>
