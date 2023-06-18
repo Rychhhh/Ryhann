@@ -2,7 +2,7 @@
 
 <div style="width: 10px;"></div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Ryhann%20チムハ&fontSize=60&animation=fadeIn&fontAlignY=38&desc=17yo%20Software%20and%20Web%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=\Rich%20チムハ&fontSize=60&animation=fadeIn&fontAlignY=38&desc=17yo%20Software%20and%20Web%20Developer&descAlignY=51&descAlign=62)
 <div style="width: 10px;"></div>
 
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
@@ -12,7 +12,7 @@
 
 😄 Hi there
 
-🐱‍🚀 You Can Call Me Han
+🐱‍🚀 You Can Call Me Rich
 
 ⚡ Interest in  Programming Language And Developing Web
 
